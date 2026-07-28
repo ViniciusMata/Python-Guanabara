@@ -103,6 +103,3 @@ https://github.com/ViniciusMata
 LinkedIn:
 https://www.linkedin.com/in/vin%C3%ADcius-louren%C3%A7o-da-mata-b73316101/
 
----
-
-⭐ Caso este repositório seja útil para alguém que esteja a aprender Python, fique à vontade para deixar uma estrela.

@@ -1,4 +1,4 @@
-# 🐍 Curso de Python - Gustavo Guanabara
+# 🐍 Curso de Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Em%20Andamento-success)

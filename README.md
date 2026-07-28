@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Em%20Andamento-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 Repositório com todas as aulas, exercícios e desafios desenvolvidos durante o **Curso de Python** do professor **Gustavo Guanabara**, disponibilizado gratuitamente pelo **Curso em Vídeo**.
 
@@ -15,7 +14,7 @@ O objetivo deste repositório é acompanhar a minha evolução na linguagem Pyth
 O projeto está organizado da seguinte forma:
 
 ```text
-Python-Guanabara/
+Python/
 │
 ├── Aulas/
 │   ├── Aula01
@@ -39,7 +38,6 @@ Python-Guanabara/
 - Aprender Python desde os fundamentos
 - Desenvolver lógica de programação
 - Criar uma base sólida para desenvolvimento Back-end
-- Evoluir para frameworks como FastAPI e Django
 
 ---
 
@@ -87,7 +85,7 @@ https://www.cursoemvideo.com/
 
 | Mundo | Estado |
 |--------|--------|
-| Mundo 1 | ✅ Concluído |
+| Mundo 1 | ⏳ Em andamento |
 | Mundo 2 | ⏳ Em andamento |
 | Mundo 3 | ⏳ Não iniciado |
 
@@ -103,7 +101,7 @@ GitHub:
 https://github.com/ViniciusMata
 
 LinkedIn:
-*(adicione o teu link aqui)*
+https://www.linkedin.com/in/vin%C3%ADcius-louren%C3%A7o-da-mata-b73316101/
 
 ---
 

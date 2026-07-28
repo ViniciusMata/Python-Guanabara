@@ -1,0 +1,7 @@
+# Crie um programa que leia o nome de uma cidade e diga se começa com o nome "SANTO"
+# ((Aula 09))
+
+cidade = input('Qual o nome da cidade: ')
+
+cidade = cidade.split()
+print(cidade[0])

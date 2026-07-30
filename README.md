@@ -88,6 +88,7 @@ https://www.cursoemvideo.com/
 | Mundo 1 | ✅ Concluído |
 | Mundo 2 | ⏳ Em andamento |
 | Mundo 3 | ⏳ Não iniciado |
+| Mundo 4 | ⏳ Não iniciado |
 
 ---
 

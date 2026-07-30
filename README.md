@@ -85,7 +85,7 @@ https://www.cursoemvideo.com/
 
 | Mundo | Estado |
 |--------|--------|
-| Mundo 1 | ⏳ Em andamento |
+| Mundo 1 | ✅ Concluído |
 | Mundo 2 | ⏳ Em andamento |
 | Mundo 3 | ⏳ Não iniciado |
 

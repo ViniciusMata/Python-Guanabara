@@ -51,9 +51,9 @@ Python/
 - ✅ Condições (`if`, `elif`, `else`)
 - ✅ Estruturas de repetição (`for` e `while`)
 - ✅ Módulos
-- ✅ Funções
-- ⏳ Listas
-- ⏳ Tuplas
+- ✅ Tuplas
+- ✅ Listas
+- ⏳ Funções
 - ⏳ Dicionários
 - ⏳ Programação Modular
 - ⏳ Tratamento de Erros
@@ -103,4 +103,3 @@ https://github.com/ViniciusMata
 
 LinkedIn:
 https://www.linkedin.com/in/vin%C3%ADcius-louren%C3%A7o-da-mata-b73316101/
-

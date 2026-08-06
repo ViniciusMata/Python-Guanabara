@@ -16,18 +16,20 @@ O projeto está organizado da seguinte forma:
 ```text
 Python/
 │
-├── Aulas/
-│   ├── Aula01
-│   ├── Aula02
-│   ├── Aula03
+├── Mundo_1
+│   │ 
+│   ├── Aulas/
+│   │   ├── Aula_001.py
+│   │   ├── Aula_002.py
+│   │   ├── Aula_003.py
+│   │   └── ...
+│   │
+│   ├── Exercicios/
+│   │   ├── Ex_001.py
+│   │   ├── Ex_002.py
+│   │   ├── Ex_003.py
+│   │   └── ...
 │   └── ...
-│
-├── Exercicios/
-│   ├── ex001.py
-│   ├── ex002.py
-│   ├── ex003.py
-│   └── ...
-│
 └── README.md
 ```
 

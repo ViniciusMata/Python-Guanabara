@@ -16,7 +16,7 @@ O projeto está organizado da seguinte forma:
 ```text
 Python/
 │
-├── Mundo_1
+├── Mundo_001
 │   │ 
 │   ├── Aulas/
 │   │   ├── Aula_001.py

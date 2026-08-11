@@ -55,9 +55,9 @@ Python/
 - ✅ Módulos
 - ✅ Tuplas
 - ✅ Listas
-- ⏳ Dicionários
-- ⏳ Funções
-- ⏳ Programação Modular
+- ✅ Dicionários
+- ✅ Funções
+- ✅ Programação Modular
 - ⏳ Tratamento de Erros
 - ⏳ Orientação a Objetos
 

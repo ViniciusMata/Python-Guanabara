@@ -98,7 +98,7 @@ https://www.cursoemvideo.com/
 
 **Vinícius Lourenço da Mata**
 
-QA Manual | Estudante de Desenvolvimento Back-end
+QA Manual | Estudante de Desenvolvimento Python Back-End
 
 GitHub:
 https://github.com/ViniciusMata

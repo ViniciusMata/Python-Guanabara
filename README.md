@@ -17,19 +17,22 @@ O projeto está organizado da seguinte forma:
 Python/
 │
 ├── Mundo_001
-│   │ 
+│   │
 │   ├── Aulas/
 │   │   ├── Aula_001.py
 │   │   ├── Aula_002.py
 │   │   ├── Aula_003.py
 │   │   └── ...
-│   │
-│   ├── Exercicios/
-│   │   ├── Ex_001.py
-│   │   ├── Ex_002.py
-│   │   ├── Ex_003.py
-│   │   └── ...
-│   └── ...
+│   └── Exercicios/
+│       ├── Ex_001.py
+│       ├── Ex_002.py
+│       ├── Ex_003.py
+│       └── ...
+│
+├── Mundo_002
+├── Mundo_003
+├── Mundo_004
+│
 └── README.md
 ```
 

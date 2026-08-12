@@ -12,7 +12,6 @@ print(lanche[2:])  # Acessando o elemento na posição 2 até final
 
 print(lanche[:2])  # Acessando o elemento do início até a posição 2
 
-
 # Tuplas são imutáveis, ou seja, não podem ser alteradas após a sua criação.
 # lanche[1] = 'Refrigerante'  # Isso vai gerar um erro, pois não é possível alterar elementos de uma tupla.
 

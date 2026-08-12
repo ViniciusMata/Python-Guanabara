@@ -53,8 +53,8 @@ Python/
 - ✅ Operadores
 - ✅ Entrada e saída de dados
 - ✅ Strings
-- ✅ Condições (`if`, `elif`, `else`)
-- ✅ Estruturas de repetição (`for` e `while`)
+- ✅ Condições
+- ✅ Estruturas de repetição
 - ✅ Módulos
 - ✅ Tuplas
 - ✅ Listas

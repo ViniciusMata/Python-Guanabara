@@ -1,0 +1,5 @@
+# Ao conjunto de todos os valores de atributos de um objeto em um determinado momento, damos o nome de:
+# A) Identidade
+# B) Instancia
+# C) Métodos
+# D) Estado                 <-----

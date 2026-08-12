@@ -61,7 +61,7 @@ Python/
 - ✅ Dicionários
 - ✅ Funções
 - ✅ Programação Modular
-- ⏳ Tratamento de Erros
+- ✅ Tratamento de Erros
 - ⏳ Orientação a Objetos
 
 ---
@@ -92,8 +92,8 @@ https://www.cursoemvideo.com/
 |--------|--------|
 | Mundo 1 | ✅ Concluído |
 | Mundo 2 | ✅ Concluído |
-| Mundo 3 | ⏳ Em andamento |
-| Mundo 4 | ⏳ Não iniciado |
+| Mundo 3 | ✅ Concluído |
+| Mundo 4 | ⏳ Em andamento |
 
 ---
 

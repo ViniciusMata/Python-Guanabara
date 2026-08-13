@@ -7,7 +7,7 @@ class Gafanhoto:
         self.nome = ""
         self.idade = 0
 
-    #Métodos de Instancia
+    # Métodos de Instancia
     def aniversaio(self):
         self.idade = self.idade + 1
 
@@ -30,5 +30,5 @@ print(g2.mensagem())
 g3 = Gafanhoto()
 g3.nome = 'Lucas'
 g3.idade = 2
-g1.aniversaio()
+g3.aniversaio()
 print(g3.mensagem())

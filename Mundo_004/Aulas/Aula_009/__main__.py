@@ -1,4 +1,4 @@
-from Ex_008 import ContaBancaria
+from ContaBancaria import ContaBancaria
 
 def main():
     c1 = ContaBancaria(id=111, nome='Maria', saldo=5000)

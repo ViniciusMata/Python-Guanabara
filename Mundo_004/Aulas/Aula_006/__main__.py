@@ -1,5 +1,5 @@
 from rich import print, inspect
-from classesEx005 import Aluno, Professor, Funcionario 
+from classes import Aluno, Professor, Funcionario 
 
 a1 = Aluno("José", 17, "Informática", "T01")
 a1.fazer_Aniversario()

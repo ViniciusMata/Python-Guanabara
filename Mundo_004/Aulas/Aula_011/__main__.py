@@ -1,4 +1,4 @@
-from Ex_010 import Avaliacao
+from Avaliacao import Avaliacao
 from rich import print, inspect
 
 def main():

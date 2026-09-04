@@ -9,10 +9,18 @@
 #   atributos:  @pede_senha()           (+)
 #   atributos:  @sacar(valor, chave)    (+)
 #   atributos:  @depositar(valor)       (+)
+from ContaBancaria import ContaBancaria
 
 def main():
-    pass
+    cc = ContaBancaria(111, "Josenildo", 10000)
 
+    print("Vou tentar sacar...")
+    cc.sacar(500)
+
+    print("Vou tentar mudar nome...")
+    cc.nome = "Maricota"
+
+    print(cc)
 
 if __name__ == "__main__":
     main()

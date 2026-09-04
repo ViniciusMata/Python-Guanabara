@@ -4,9 +4,14 @@
 #   atributos:  __hash          (-)
 #   metodos:    validar(chave)  (+)
 
-def main():
-    pass
+from Credencial import Credencial
 
+def main():
+
+    c = Credencial()
+    c.senha = input("Digite a sua senha: ")
+    print(c.senha)
+    c.validar('CeV!@')
 
 if __name__ == "__main__":
     main()

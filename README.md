@@ -62,7 +62,7 @@ Python/
 - ✅ Funções
 - ✅ Programação Modular
 - ✅ Tratamento de Erros
-- ⏳ Orientação a Objetos
+- ✅ Orientação a Objetos
 
 ---
 
@@ -93,7 +93,9 @@ https://www.cursoemvideo.com/
 | Mundo 1 | ✅ Concluído |
 | Mundo 2 | ✅ Concluído |
 | Mundo 3 | ✅ Concluído |
-| Mundo 4 | ⏳ Em andamento |
+| Mundo 4 | ✅ Concluído |
+
+Data Conclusão: 07/09/2026
 
 ---
 

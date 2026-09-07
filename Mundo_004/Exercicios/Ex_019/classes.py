@@ -1,0 +1,39 @@
+from abc import ABC, abstractmethod
+
+class Funcionario(ABC):
+    def __init__(self, nome:str=None, salario:float = 1621):
+        self.nome = nome
+        self.__salario = salario
+
+    @abstractmethod
+    def calcularBonus(self):
+        pass
+
+    @property
+    def salario(self):
+        return self.__salario
+
+    @salario.setter
+    def salario(self, valor:float = None):
+        if valor is None:
+            raise ValueError("Impossível reajustar o salário desse jeito!")
+        else:
+            if valor >= self.__salario:
+                self.__salario = valor
+            else:
+                raise ValueError("Você não pode reduzir o salário de um funcionário")
+
+    def __str__(self):
+        return f"{self.nome} ganha R${self.salario:,.2f} e por ser {self.__class__.__name__} o bônus será de R${self.calcularBonus():,.2f}"
+
+class Designer(Funcionario):
+    def calcularBonus(self):
+        return self.salario * 0.08
+
+class Desenvolvedor(Funcionario):
+    def calcularBonus(self):
+        return self.salario * 0.10
+
+class Gerente(Funcionario):
+    def calcularBonus(self):
+        return self.salario * 0.15
